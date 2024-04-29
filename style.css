@@ -18,5 +18,7 @@ section {
   height: 50%;
   border: 2px solid white;
   padding: 20px;
-  margin: 100px 150px 100px 150px;
+  margin: 100px 150px 100px 200px;
+  background-color: hsla(0, 50%, 100%, 0.5);
+  text-align: center;
 }
